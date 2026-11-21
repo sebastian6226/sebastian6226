@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://sebastianurbano.framer.website">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/sebastián-urbano-a94b141ab">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/sebasti%C3%A1n-urbano">LinkedIn</a> ·
   <a href="mailto:sebastian.urbano@outlook.com">Email</a>
 </p>
 
